@@ -1,0 +1,67 @@
+body{
+  background-color: black;
+  
+}
+  .container{
+    position: relative;
+    left: 2%;
+    border: 1px solid gray;
+    width: 360px;
+    height: 440px;
+    border-radius: 10px;
+    background-color: blue;
+     }
+  input{
+    padding: 20px;
+    width: 310px;
+    background-color: black;
+    color: red;
+    border: none;
+  }
+  button{
+    padding: 10px;
+    width: 290px;
+    position: relative;
+    left: 28px;
+    background-color: lawngreen;
+    border-radius: 10px;
+    border-color: lawngreen;
+    color: white;
+  }
+  label{
+    position: relative;
+    left: 5%;
+    color: white;
+    
+    
+  }
+  h4{
+    color: white;
+  }
+ 
+    img{
+
+    height: 155px;
+    position: relative;
+    left: 7%;
+    
+    
+  }
+  h2{
+    
+    height: 50px;
+    width:300px;
+    color: white;
+  }
+  .hp{
+    background-color: red;
+  }
+  
+  marquee{
+  
+ color: red;
+ background-color: black;
+ 
+}
+  
+  
